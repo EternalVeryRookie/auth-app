@@ -1,0 +1,6 @@
+node_modules
+/data/
+/docker/proxy/localhost-key.pem
+/docker/proxy/localhost.pem
+/docker/database/data/
+/memo.txt
